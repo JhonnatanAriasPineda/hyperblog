@@ -1,5 +1,4 @@
 Esta es la historia de Jhonnatan Arias
-
-Jhonnatan Arias tiene 33 años y nacio en colombia
-
-Hoy hablaremos de su historia de mi mundo.
+Jhonnatan Arias tiene 30 años y nacio en Aguadas(Caldas), ubicado en colombia
+Hoy hablaremos de su historia y los inicios de la programación
+Actualmente esta estudiando en platzy e inicio con el programa de python.
